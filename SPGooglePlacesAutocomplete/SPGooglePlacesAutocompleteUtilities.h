@@ -6,7 +6,7 @@
 //  Copyright (c) 2012 Stephen Poletto. All rights reserved.
 //
 
-#define kGoogleAPIKey @"YOUR_API_KEY"
+#define kGoogleAPIKey @"AIzaSyAMc1anjnO4b7uv6hIgFj_Ql2H2_9pJG34"
 #define kGoogleAPINSErrorCode 42
 
 @class CLPlacemark;
